@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Jeu Vidéo II Hizq]]></title>
         <description><![CDATA[Jeu Vidéo II Hizq]]></description>
-        <link>https://thegrid.ai/jeu vidéo ii-hizq/</link>
+        <link>https://thegrid.ai/jeuvidoii-hizq/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 22:15:24 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/jeu vidéo ii-hizq/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 23:01:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jeuvidoii-hizq/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My Let's Plays]]></title>
+            <description><![CDATA[<article><h1>My Let's Plays</h1><p>My name is Hizqiyah Yoshiyah I started watching the RadBrad on his Amnesia Dark Descent play through. A childhood friend of mine also streams. (Twitch-T4k3aB...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51110689c3e836f3e6d2ce711c61cd95c174aaa6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jeuvidoii-hizq/my-lets-plays/index.html</link>
+            <guid isPermaLink="false">2b17efbe-a9e1-41c1-80bb-a8542975d221</guid>
+            <pubDate>Wed, 09 Mar 2016 23:00:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My Twitch]]></title>
             <description><![CDATA[<h1>My Twitch</h1>]]></description>
@@ -37,7 +44,7 @@
         <item>
             <title><![CDATA[To Azimuth]]></title>
             <description><![CDATA[<article><h1>To Azimuth</h1><p>Announcement trailer for To Azimuth, a narrative-driven alien abduction mystery following two siblings as they search for their brother in the humid haze of 1970's Alabama. From the creator of Three Fourths Home: Extended Edition.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4462757339fe1ca49c3376a8a94a6161b24a36d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jeu vidéo ii-hizq/to-azimuth/index.html</link>
+            <link>https://thegrid.ai/jeuvidoii-hizq/to-azimuth/index.html</link>
             <guid isPermaLink="false">3764a4a6-b066-4091-a91a-2f19158c053a</guid>
             <pubDate>Wed, 09 Mar 2016 19:11:21 GMT</pubDate>
         </item>
