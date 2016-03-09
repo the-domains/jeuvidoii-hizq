@@ -1,23 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:647507d6-05ef-4050-bba4-4e2ecee4b11d'
+inLanguage: null
+starred: true
+keywords: []
 description: ''
+datePublished: '2016-03-09T23:02:34.607Z'
+dateModified: '2016-03-09T23:01:27.175Z'
 author: []
-datePublished: '2016-03-09T23:00:38.946Z'
+title: "My Let's Plays"
+sourcePath: _posts/2016-03-09-my-lets-plays.md
+published: true
+authors: []
 publisher:
   name: ''
   domain: ''
-title: "My Let's Plays"
-dateModified: '2016-03-09T19:59:04.974Z'
-starred: true
-sourcePath: _posts/2016-03-09-my-lets-plays.md
-published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: my-lets-plays/index.html
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # My Let's Plays
 
-<article style=""><h1>Jeu Vidéo II Hizq</h1><p>My name is Hizqiyah Yoshiyah I started watching the RadBrad on his Amnesia Dark Descent play through&amp;period; A childhood friend of mine also streams&amp;period; &amp;lpar;Twitch-T4k3aB&amp;period;&amp;period;&amp;period;</p><img src="https://yt3.ggpht.com/-QnZgy_pu8jQ/AAAAAAAAAAI/AAAAAAAAAAA/T76jwCMy2Eo/s900-c-k-no/photo.jpg" /></article>
+<article style=""><h1>Jeu Vidéo II Hizq</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51110689c3e836f3e6d2ce711c61cd95c174aaa6.jpg" /></article>
