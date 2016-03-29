@@ -1,41 +1,41 @@
-name: Jeu Vidéo II Hizq
-favicon: null
-layout_spectrum: 0.89147
-typography_spectrum: 0.5394265
+title: Jeu Vidéo II Hizq
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Jeu Vidéo II Hizq
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.5556492
+  brandStrength: 0.1875
+  lightness: 0.6661046
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.1875
-  lightness: 0.3125
-  saturation: 0.1875
-  rhythmicContrast: 0.04654259630478919
-purpose: []
+  rhythmicContrast: 0.2664418
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Jeu Vidéo II Hizq
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5394265
+layout_spectrum: 0.89147
